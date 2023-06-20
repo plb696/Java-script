@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+
+.navright{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.list{
+    text-decoration: none;
+}
